@@ -12,7 +12,7 @@ page_sections:
   - link: "#swap"
     link_text: Services
   - link: "#customize"
-    link_text: Customize
+    link_text: ''
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
@@ -80,6 +80,12 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: 4-column-footer
+  block: footer-2
+  col_2: "<strong>K&amp;K Pest Control Services</strong>"
+  col_3: +03-41089697<br><img src="/uploads/icon-whatsapp.png">+6013-3028434
+  col_4: test
+  image: ''
 published: false
 
 ---
